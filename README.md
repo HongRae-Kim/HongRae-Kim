@@ -1,9 +1,11 @@
-<div align=center>
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4b5563&height=230&section=header&text=💻%20Backend%20Developer%20Kim%20HongRae&fontColor=FFFFFF&fontSize=36&fontAlignY=38&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:2563eb&height=200&section=header&text=Kim%20HongRae&fontColor=FFFFFF&fontSize=40&desc=Backend%20Developer&descAlignY=66&descAlign=50"
     alt="header"
   />
 </div>
+
+
 
 <p align=center>
   안녕하세요 🙌 <strong>커뮤니케이션을 즐기는 백엔드 개발자 김홍래</strong>입니다.<br/>
