@@ -49,6 +49,21 @@
 
 <br>
 
+<h2 align=center>📊 GitHub Stats</h2>
+
+<div align=center>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HongRae-Kim&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58a6ff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongRae-Kim&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+<br>
+
+<div align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HongRae-Kim&theme=github-dark-blue&hide_border=true" />
+</div>
+
+<br>
+
 <h3 align=center>✉️ Contact</h3>
 
 <p align=center>
